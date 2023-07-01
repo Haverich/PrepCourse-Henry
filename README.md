@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del modulo numero 2 de PrepCourse Henry
+Este es un proyecto de prueba de como crear un repositorio y como clonarlo de github y modificarlo en vscode
